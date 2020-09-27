@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+renv/
+.Rprofile
+R-Py-integration.Rproj
+renv.lock
+__pycache__
