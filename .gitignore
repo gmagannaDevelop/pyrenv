@@ -7,3 +7,4 @@ renv/
 R-Py-integration.Rproj
 renv.lock
 __pycache__
+.vscode
